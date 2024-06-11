@@ -31,8 +31,8 @@ Currently, I am enhancing my skills in the MERN stack by lerning front-end and b
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tushar7685&theme=highcontrast&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar7685&theme=highcontrast&layout=compact&hide_border=true)
+![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=rutvikjani03&theme=highcontrast&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rutvikjani03&theme=highcontrast&layout=compact&hide_border=true)
 
 ## Projects:
 
